@@ -1,3 +1,36 @@
+# react-recipe
+ * a recipe app that provides recipe with themealdb api.
+
+
+# Stack Used :
+   * React.js
+   * Node.js
+   * API
+   * Netlify
+ 
+
+# Screenshots of the project ⬇️ 
+ ![](public/react-recipe.png)
+
+# Live Demo : 
+  * link - https://nifty-cray-079b2f.netlify.app/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
